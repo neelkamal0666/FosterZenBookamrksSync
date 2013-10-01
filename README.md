@@ -5,9 +5,10 @@ Google Chrome Extension For FosterZen
 
 This extension helps users to bookmark any page on FosterZen.You can add tags and comments to your bookmarks. The bookmarks are public by default but you can choose the privacy option at the time of bookmarking.
 
-You can also Sync you browser bookmarks with FosterZen.
+You can also Sync your browser bookmarks with FosterZen.
 
 
+To Use it In Your Project :
 
 There are two pages in main directory submit_data.php and connect.php
 
